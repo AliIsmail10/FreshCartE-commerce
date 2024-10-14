@@ -64,6 +64,10 @@
     "@types/serve-static": "^1.15.7",
     "@types/sockjs": "^0.3.36",
     "@types/ws": "^8.5.12",
+<<<<<<< HEAD
+=======
+    "angular-cli-ghpages": "^2.0.1",
+>>>>>>> Initial commit after rebuild and redeploy
     "autoprefixer": "^10.4.20",
     "esbuild": "^0.23.1",
     "eslint": "^9.10.0",

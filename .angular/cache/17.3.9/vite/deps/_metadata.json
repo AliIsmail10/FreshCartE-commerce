@@ -1,90 +1,156 @@
 {
+<<<<<<< HEAD
   "hash": "5f75a35b",
   "configHash": "bc7c48d4",
   "lockfileHash": "6e3fab92",
   "browserHash": "01df1941",
+=======
+  "hash": "5cae213c",
+  "configHash": "bc7c48d4",
+  "lockfileHash": "9e4be191",
+  "browserHash": "e3eea707",
+>>>>>>> Initial commit after rebuild and redeploy
   "optimized": {
     "@angular/common": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
       "file": "@angular_common.js",
+<<<<<<< HEAD
       "fileHash": "2bdab817",
+=======
+      "fileHash": "1272a7d3",
+>>>>>>> Initial commit after rebuild and redeploy
       "needsInterop": false
     },
     "@angular/common/http": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
       "file": "@angular_common_http.js",
+<<<<<<< HEAD
       "fileHash": "e2b755de",
+=======
+      "fileHash": "be575f79",
+>>>>>>> Initial commit after rebuild and redeploy
       "needsInterop": false
     },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
+<<<<<<< HEAD
       "fileHash": "8e4171f2",
+=======
+      "fileHash": "fe1e478f",
+>>>>>>> Initial commit after rebuild and redeploy
       "needsInterop": false
     },
     "@angular/forms": {
       "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
       "file": "@angular_forms.js",
+<<<<<<< HEAD
       "fileHash": "60ff2f79",
+=======
+      "fileHash": "8e674b7a",
+>>>>>>> Initial commit after rebuild and redeploy
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
+<<<<<<< HEAD
       "fileHash": "5bb77cfb",
+=======
+      "fileHash": "229df5da",
+>>>>>>> Initial commit after rebuild and redeploy
       "needsInterop": false
     },
     "@angular/platform-browser/animations": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations.mjs",
       "file": "@angular_platform-browser_animations.js",
+<<<<<<< HEAD
       "fileHash": "82a683c3",
+=======
+      "fileHash": "774577f3",
+>>>>>>> Initial commit after rebuild and redeploy
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
+<<<<<<< HEAD
       "fileHash": "90d7e559",
+=======
+      "fileHash": "0f8732ee",
+>>>>>>> Initial commit after rebuild and redeploy
       "needsInterop": false
     },
     "@ngx-translate/core": {
       "src": "../../../../../node_modules/@ngx-translate/core/dist/fesm2022/ngx-translate-core.mjs",
       "file": "@ngx-translate_core.js",
+<<<<<<< HEAD
       "fileHash": "ab987848",
+=======
+      "fileHash": "aa3d6966",
+>>>>>>> Initial commit after rebuild and redeploy
       "needsInterop": false
     },
     "@ngx-translate/http-loader": {
       "src": "../../../../../node_modules/@ngx-translate/http-loader/dist/fesm2022/ngx-translate-http-loader.mjs",
       "file": "@ngx-translate_http-loader.js",
+<<<<<<< HEAD
       "fileHash": "7a79f2ba",
+=======
+      "fileHash": "2115e400",
+>>>>>>> Initial commit after rebuild and redeploy
       "needsInterop": false
     },
     "flowbite": {
       "src": "../../../../../node_modules/flowbite/lib/esm/index.js",
       "file": "flowbite.js",
+<<<<<<< HEAD
       "fileHash": "9777e639",
+=======
+      "fileHash": "0e0e76ac",
+      "needsInterop": false
+    },
+    "jwt-decode": {
+      "src": "../../../../../node_modules/jwt-decode/build/esm/index.js",
+      "file": "jwt-decode.js",
+      "fileHash": "fa9b0200",
+>>>>>>> Initial commit after rebuild and redeploy
       "needsInterop": false
     },
     "ngx-owl-carousel-o": {
       "src": "../../../../../node_modules/ngx-owl-carousel-o/fesm2022/ngx-owl-carousel-o.mjs",
       "file": "ngx-owl-carousel-o.js",
+<<<<<<< HEAD
       "fileHash": "1b404632",
+=======
+      "fileHash": "d4c2b516",
+>>>>>>> Initial commit after rebuild and redeploy
       "needsInterop": false
     },
     "ngx-spinner": {
       "src": "../../../../../node_modules/ngx-spinner/fesm2022/ngx-spinner.mjs",
       "file": "ngx-spinner.js",
+<<<<<<< HEAD
       "fileHash": "b779fadf",
+=======
+      "fileHash": "8e059d25",
+>>>>>>> Initial commit after rebuild and redeploy
       "needsInterop": false
     },
     "ngx-toastr": {
       "src": "../../../../../node_modules/ngx-toastr/fesm2022/ngx-toastr.mjs",
       "file": "ngx-toastr.js",
+<<<<<<< HEAD
       "fileHash": "3d9320c0",
+=======
+      "fileHash": "4f6fe19e",
+>>>>>>> Initial commit after rebuild and redeploy
       "needsInterop": false
     },
     "rxjs": {
       "src": "../../../../../node_modules/rxjs/dist/esm5/index.js",
       "file": "rxjs.js",
+<<<<<<< HEAD
       "fileHash": "15d9b673",
       "needsInterop": false
     },
@@ -92,6 +158,9 @@
       "src": "../../../../../node_modules/jwt-decode/build/esm/index.js",
       "file": "jwt-decode.js",
       "fileHash": "9fcd525c",
+=======
+      "fileHash": "972d0373",
+>>>>>>> Initial commit after rebuild and redeploy
       "needsInterop": false
     }
   },
